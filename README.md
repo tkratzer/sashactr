@@ -9,3 +9,4 @@ JavaScript
 Jquery
 Bootstrap
 JSON
+Test on Windows
